@@ -1,0 +1,1 @@
+console.log(" ia am ali abbass a web developer that only knows django framework and does not love to work on .NET TECHNOLOGY");
